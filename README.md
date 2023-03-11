@@ -1,0 +1,1 @@
+I'm gonna save here everything i learn about react
